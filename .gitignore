@@ -1,0 +1,12 @@
+.tox
+.dumbjump
+.material
+*.idea
+*.pyc
+deploy
+build/
+dist/
+node_modules/
+*.egg-info/
+tests/visual/screenshots_test/
+yarn.lock
